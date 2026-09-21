@@ -14,7 +14,5 @@ accuracy with chest X-ray images. Integrated a user-centric front-end (HTML, CSS
 ## Prediction result for Covid Negative
 ![Result-2](Output_images/img4.png)
 
-## 📄 Project Report
 
-[View Full Project Report](main_project_report.pdf)
 
